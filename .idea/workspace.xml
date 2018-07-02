@@ -4,6 +4,7 @@
     <list default="true" id="71ae033f-fe6a-4f03-a3c2-0ae5b7576e0d" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +22,8 @@
       <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="510" lean-forward="true" selection-start-line="510" selection-end-line="510" />
+            <state relative-caret-position="456">
+              <caret line="512" column="4" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
               <folding>
                 <element signature="e#48#272#0" />
                 <element signature="e#55#270#0" />
@@ -169,8 +170,8 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="269">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="e#860#866#0#HTML" expanded="true" />
                 <element signature="e#1225#1231#0#HTML" expanded="true" />
@@ -355,15 +356,16 @@
       <workItem from="1529823391353" duration="2692000" />
       <workItem from="1530082280353" duration="14457000" />
       <workItem from="1530178038626" duration="23000" />
-      <workItem from="1530529576522" duration="1534000" />
+      <workItem from="1530529576522" duration="2290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40901000" />
+    <option name="totallyTimeSpent" value="41657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -374,7 +376,7 @@
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32838285" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.32838285" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32838285" />
       <window_info id="Favorites" order="0" side_tool="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -811,8 +813,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="269">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="26" />
           <folding>
             <element signature="e#860#866#0#HTML" expanded="true" />
             <element signature="e#1225#1231#0#HTML" expanded="true" />
@@ -841,8 +843,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="510" lean-forward="true" selection-start-line="510" selection-end-line="510" />
+        <state relative-caret-position="456">
+          <caret line="512" column="4" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
           <folding>
             <element signature="e#48#272#0" />
             <element signature="e#55#270#0" />
