@@ -1,0 +1,43 @@
+$easing: all .3s ease;
+$long-easing: all 1s ease;
+
+@mixin transition($args){
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
+
+@mixin contain-back{
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@mixin cover-back{
+  background-size: cover;
+  background-position: center;
+}
+
+@mixin center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin border-bottom{
+  border-bottom: 1px solid $secondary-color;
+}
+@mixin border-top{
+  border-top: 1px solid $secondary-color;
+}
+@mixin border-left{
+  border-left: 1px solid $secondary-color;
+}
+@mixin border-right{
+  border-right: 1px solid $secondary-color;
+}
+@mixin border-all{
+  border: 1px solid $secondary-color;
+}
